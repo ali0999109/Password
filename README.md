@@ -52,7 +52,10 @@
 
 - Type in > sudo nano /etc/nginx/sites-enabled/nginx-passbolt.conf
 - type in your domain name for server name
+
+  
   ![image](https://github.com/ali0999109/Password/assets/145396907/7eacf0e0-bf16-48d0-8e26-2d4abcfc4c3a)
+  ========
 - press control and x
 - click yes
 - type in sudo dpkg-reconfigure passbolt-ce-server
